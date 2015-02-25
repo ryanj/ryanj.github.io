@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "ryanj",
-    "repositoryName": "ryanj.github.io",
-    "branch": "master"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"ryanj","repositoryName":"ryanj.github.io","branch":"master","cname":""},"site":{"title":"posts","description":"hate hate hate hate hate","postsPerPage":"7","disqus":"","url":"https://ryanj.github.io"},"socialnetwork":{"twitter":"ryanj","googleplus":"ryan.jarvinen","linkedin":"ryanjarvinen","github":"ryanj"},"theme":{"name":"Casper","url":"https://ryanj.github.io/themes/Casper"}}
