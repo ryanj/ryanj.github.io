@@ -1,0 +1,7 @@
+= Test
+
+this is a test of the link:https://github.com/HubPress/hubpress.io[hubpress blogging system]. this is only a test. 
+
+had this been an actual FP, this post would be followed by additional broadcasts and information. 
+
+this is only a test.
